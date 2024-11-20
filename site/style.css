@@ -1,0 +1,13 @@
+body{
+    color: white;
+    text-shadow: 6px 6px 18px black;
+    text-align: center;box-shadow: 6px 6px 18px black;
+
+} 
+p{
+   color: black;
+   text-shadow: 6px 6px 18px rgb(255, 0, 0);
+}
+.p{
+ text-shadow: 6px 6px 18px red;
+}
